@@ -4,3 +4,5 @@ voidからメソッド作成したときはprintln
 
 //
 aadasa
+sadas
+trh
