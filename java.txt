@@ -3,4 +3,4 @@ voidからメソッド作成したときはprintln
 返したい場合はint等で作成しreturn
 
 //
-aad
+aadasa
